@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👶 I found my passion in coding since the age of 17 (2016).<br>🎓 I'm still doing it because there still so much to learn and discover in this domain, I love it.<br>⏳Working on adding some the other skills to the main skills like React, TypeScript, Docker and Figma.<br>🤞Dream about creating hardware in symbiosis with created software.</p>
+<p align="left">👶 I found my passion in coding since the age of 17 (2016).<br>🎓 I'm still doing it because there still so much to learn and discover in this domain, I love it.<br>⏳Working on adding some of the other skills to the main skills like React, TypeScript, Docker and Figma.<br>🤞Dream about creating hardwares in symbiosis with created softwares.</p>
 
 ###
 
