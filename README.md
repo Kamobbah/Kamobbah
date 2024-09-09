@@ -1,24 +1,10 @@
-<h1 align="left">Hello there 👋</h1>
+<h1 align="left">Hello there I'm Mandresy 👋</h1>
 
 ###
 
-<p align="left">My name is RANDRIATAVY Mandresy and I'm a Software Developer.</p>
+<p align="left">Curious by nature I like to explore and discover new things. Understanding how something works and appropriate myself its basics before trying to push the boundaries and/or making the most of it.</p>
 
-###
-
-<h2 align="left">About the man</h2>
-
-###
-
-<p align="left">Curious by nature I like to explore and discover new things. Understanding how something works and appropriate myself its basics before trying to push the boundaries or making the most of it.<br><br>This curiosity gave me the ability to adapt myself in any environment, be open-minded about others point of view and learning fast.</p>
-
-###
-
-<h2 align="left">About the machine</h2>
-
-###
-
-<p align="left">👶 I found my passion in coding since the age of 17 (2016).<br>🎓 I'm still doing it because there still so much to learn and discover in this domain, I love it.<br>⏳Working on adding some of the other skills to the main skills like React, TypeScript, Docker and Figma.<br>🤞Dream about creating hardwares in symbiosis with created softwares.</p>
+<p align="left">👶 I'm a Software Developer who found his passion in coding since the age of 17 (2016).<br>🎓 I'm still doing it because there's always something to learn and discover in this domain, I love it.<br>🎯 Fast learner and patient bug finder.<br>⏳ Working on adding some of the other skills to the main skills like React, TypeScript, Docker and Figma.<br>🤞 Dreaming about creating hardwares in symbiosis with created softwares (Like Apple, Netgear or anyone who owns their hardware and software).</p>
 
 ###
 
