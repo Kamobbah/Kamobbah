@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Curious by nature I like to explore and discover new things. Understanding how something works and appropriate myself it basics before trying to push the boundaries or making the most of it.<br><br>This curiosity gave me the ability to adapt myself in any environment, be open-minded about others point of view and learning fast.</p>
+<p align="left">Curious by nature I like to explore and discover new things. Understanding how something works and appropriate myself its basics before trying to push the boundaries or making the most of it.<br><br>This curiosity gave me the ability to adapt myself in any environment, be open-minded about others point of view and learning fast.</p>
 
 ###
 
