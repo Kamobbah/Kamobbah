@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Curious by nature I like to explore and discover new things. Understanding how something works and appropriate myself its basics before trying to push the boundaries and/or making the most of it.</p>
+<p align="left">Curious by nature, I thrive on exploring and discovering new technologies. I take pleasure in understanding the fundamentals of a system before pushing its boundaries and maximizing its potential.</p>
 
-<p align="left">👶 I'm a Software Engineer Fullstack who found his passion in coding since the age of 17 (2016).<br>🎓 I'm still doing it because there's always something to learn and discover, I love it.<br>🎯 Fast learner and patient bug solver.<br>⏳ Working on strengthen some of the other skills to make them a main skill like React and TypeScript.<br>🤞 Dreaming about creating hardwares in symbiosis with softwares.</p>
+<p align="left">👶 As a Fullstack Software Engineer with a passion for coding since the age of 17 (2016), I have dedicated myself to mastering various technologies and continuously expanding my expertise.<br>🎓 My enthusiasm for coding remains strong because there’s always something new to learn and explore.<br>🎯 I am a quick learner and a patient problem solver, dedicated to tackling and resolving bugs effectively.<br>⏳ Currently, I am focusing on strengthening my skills in React and TypeScript to make them core competencies.<br>🤞 My ultimate goal is to create innovative hardware that integrates seamlessly with software</p>
 
 ###
 
