@@ -4,7 +4,7 @@
 
 <p align="left">Curious by nature, I thrive on exploring and discovering new technologies. I take pleasure in understanding the fundamentals of a system before pushing its boundaries and maximizing its potential.</p>
 
-<p align="left">👶 As a Fullstack Software Engineer with a passion for coding since the age of 17 (2016), I have dedicated myself to mastering various technologies and continuously expanding my expertise.<br>🎓 My enthusiasm for coding remains strong because there’s always something new to learn and explore.<br>🎯 I am a quick learner and a patient problem solver, dedicated to tackling and resolving bugs effectively.<br>⏳ Currently, I am focusing on strengthening my skills in React and TypeScript to make them core competencies.<br>🤞 My ultimate goal is to create innovative hardware that integrates seamlessly with software</p>
+<p align="left">👶 As a Fullstack Software Engineer with a passion for coding since the age of 17 (2016), I have dedicated myself to mastering various technologies and continuously expanding my expertise.<br>🎓 My enthusiasm for coding remains strong because there’s always something new to learn and explore.<br>🎯 I am a quick learner and a patient problem solver, dedicated to tackling and resolving bugs effectively.</p>
 
 ###
 
